@@ -1,4 +1,4 @@
-# Sistema de Inventario de Fincas de Cacao 🍫
+# Sistema de Inventario de Fincas de Cacao
 
 Mi primer proyecto en Python desarrollado como parte de mi ruta de aprendizaje para convertirme en desarrollador de software con enfoque en Inteligencia Artificial.
 
@@ -9,5 +9,5 @@ Mi primer proyecto en Python desarrollado como parte de mi ruta de aprendizaje p
 * Aplica **condicionales (`if`)** para filtrar fincas según sus hectáreas y calcular un contador automático.
 
 ## Tecnologías utilizadas
-* Python 🐍
-* Visual Studio Code 💻
+* Python 
+* Visual Studio Code 
